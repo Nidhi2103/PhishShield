@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files (optional – remove if you WANT to upload them)
+# models/*.pkl
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
